@@ -28,7 +28,7 @@ This project allows the player to play against the computer in a classic Rock Pa
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/import-this-dude/Rock_Paper-and-scissor
 
 2. Open the project folder
 cd rock-paper-scissors
